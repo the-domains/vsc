@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VSC]]></title>
+        <description><![CDATA[VSC]]></description>
+        <link>https://thegrid.ai/vsc/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 07 Oct 2015 22:14:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vsc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>vsc badassness </p>]]></description>
+            <guid isPermaLink="false">10e5e427-7f5a-4f22-8c42-a1362b96207c</guid>
+            <pubDate>Wed, 07 Oct 2015 22:14:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7f1d679-1aae-4de4-8716-91a1edfb38dd.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/vsc/c6186996-b42f-44e7-86b9-5303cb6e720c/index.html</link>
+            <guid isPermaLink="false">c6186996-b42f-44e7-86b9-5303cb6e720c</guid>
+            <pubDate>Wed, 07 Oct 2015 21:50:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
