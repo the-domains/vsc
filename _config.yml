@@ -1,6 +1,7 @@
 name: VSC
 favicon: null
 layout_spectrum: 0.48384
+typography_spectrum: 0.74512
 cta:
   domain: null
   bucket: null
